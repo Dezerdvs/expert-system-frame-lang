@@ -1,5 +1,7 @@
 # Frame-Based Expert System & Knowledge Base Engine
 
+![CI](https://github.com/Dezerdvs/expert-system-frame-lang/actions/workflows/ci.yml/badge.svg)
+
 A from-scratch implementation of a **frame-based knowledge representation system** (in the classic AI sense — think Minsky's "frames", the precursor to modern object-oriented modeling), plus a small natural-language search engine built on top of it.
 
 ## What it does
